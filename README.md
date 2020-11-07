@@ -6,4 +6,4 @@ Basically the idea is when you click any area of the ground/floor, you can go to
 
 I will show you this video so you will understand what I meant:
 
-(video is coming soon)
+https://www.youtube.com/watch?v=kNWP-f7BJsw
